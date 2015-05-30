@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "upload/index.php",
+			"settings":
+			{
+				"buffer_size": 7242,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/xampp/htdocs/www.justaddbirds.co.uk/upload",
+		"/E/xampp/htdocs/www.justaddbirds.co.uk/upload/image",
+		"/E/xampp/htdocs/www.justaddbirds.co.uk/upload/image/catalog"
+	],
+	"file_history":
+	[
+		"/E/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/E/xampp/htdocs/www.justaddbirds.co.uk/upload/catalog/view/theme/default/template/common/footer.tpl",
+		"/E/xampp/htdocs/2015-05-05-site-full_backup-justaddbirds.co.uk/public_html/config.php",
+		"/E/nodes.dat",
+		"/E/server.met",
+		"/C/Users/htd/AppData/Local/Temp/scp26070/home/davida/server/public_html/client/v2/app/controllers/WizardController.php",
+		"/C/Users/htd/AppData/Local/Temp/scp22407/home/davida/server/public_html/client/v2/app/controllers/EditController.php",
+		"/C/Users/htd/AppData/Local/Temp/scp30213/home/davida/server/public_html/client/onboarding.php",
+		"/C/Users/htd/AppData/Local/Temp/scp29880/home/davida/server/public_html/client/v2/bootstrap.php",
+		"/C/Users/htd/AppData/Local/Temp/scp33712/home/davida/server/public_html/client/login.php",
+		"/C/Users/htd/AppData/Local/Temp/scp23084/home/davida/server/public_html/client/v2/app/controllers/WizardController.php",
+		"/C/Users/htd/AppData/Local/Temp/scp26883/home/davida/server/public_html/client/functionality.php",
+		"/C/Users/htd/AppData/Local/Temp/scp28437/home/davida/server/public_html/client/v2/app/views/pages/wizard/wizard.tpl",
+		"/C/Users/htd/AppData/Local/Temp/scp21523/home/davida/server/public_html/client/v2/public/scripts/pages/wizard.js",
+		"/C/Users/htd/AppData/Local/Temp/scp26191/home/davida/server/include/inc/Helper/Helpers/FileHelper.php",
+		"/C/Users/htd/AppData/Local/Temp/scp20346/home/davida/server/include/inc/Helper/Helpers/AppsHelper.php",
+		"/C/Users/htd/AppData/Local/Temp/scp21307/home/sandbox/server/public_html/client/v2/app/controllers/WizardController.php",
+		"/C/Users/htd/AppData/Local/Temp/scp08962/home/davida/server/public_html/client/v2/app/controllers/WizardController.php",
+		"/C/Users/htd/AppData/Local/Temp/scp18855/home/davida/server/public_html/client/v2/public/scripts/pages/wizard.js",
+		"/C/Users/htd/AppData/Local/Temp/scp17891/home/davida/server/public_html/client/v2/public/scripts/helper/select.js",
+		"/C/Users/htd/AppData/Local/Temp/scp13327/home/davida/server/include/inc/Model/DbModel.php",
+		"/C/Users/htd/AppData/Local/Temp/scp15471/home/davida/server/include/inc/Model/Models/RestaurantItemModel.php",
+		"/C/Users/htd/AppData/Local/Temp/scp06114/home/davida/server/include/inc/Helper/Helpers/AppsHelper.php",
+		"/C/Users/htd/AppData/Local/Temp/scp37463/home/davida/server/public_html/client/v2/public/scripts/pages/wizard.js",
+		"/C/Users/htd/AppData/Local/Temp/scp38423/home/davida/server/public_html/client/v2/app/controllers/WizardController.php",
+		"/C/Users/htd/AppData/Local/Temp/scp39245/home/davida/server/include/inc/Helper/Helpers/AppsHelper.php",
+		"/C/Users/htd/AppData/Local/Temp/scp45679/home/davida/server/include/inc/errors.log",
+		"/C/Users/htd/AppData/Local/Temp/scp27626/home/davida/server/public_html/reseller/v2/assets/scripts/app_simple.js",
+		"/C/Users/htd/AppData/Local/Temp/scp04921/home/davida/server/public_html/client/v2/public/scripts/pages/login.js",
+		"/C/Users/htd/AppData/Local/Temp/scp39109/home/davida/server/public_html/frontend/v2/public/scripts/app_signup.js",
+		"/C/Users/htd/AppData/Local/Temp/scp47353/home/davida/server/public_html/client/v2/app/controllers/WizardController.php",
+		"/C/Users/htd/AppData/Local/Temp/scp50895/home/davida/server/include/inc/Model/Models/AppsModel.php",
+		"/C/Users/htd/AppData/Local/Temp/scp55250/home/davida/server/include/inc/Model/DbModel.php",
+		"/C/Users/htd/AppData/Local/Temp/scp15932/home/davida/server/include/inc/Helper/Helpers/AppsHelper.php",
+		"/C/Users/htd/AppData/Local/Temp/scp12365/home/davida/server/include/inc/Model/Models/AppWizardModel.php",
+		"/C/Users/htd/AppData/Local/Temp/scp15005/home/davida/logs/test.com-error.log",
+		"/C/Users/htd/AppData/Local/Temp/scp06788/home/davida/server/public_html/client/v2/public/scripts/pages/wizard.js",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/E/server/include/scrap/WordpressScrapper.php",
+		"/E/server/include/scrap/Scrapper.php",
+		"/E/server/include/scrap/ScrapManager.php",
+		"/E/server/include/scrap/GeneralScrapper.php",
+		"/E/server/include/scrap/ScrapException.php",
+		"/E/server/include/scrap/FacebookScrapper.php",
+		"/E/server/include/scrap/ScrapUtil.php",
+		"/E/server/include/scrap/DatabaseManager.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<footer>",
+			"restaurant_items",
+			"!=",
+			"OrderingViewController",
+			"n update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"=="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "upload/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"file": "/E/xampp/htdocs/www.justaddbirds.co.uk/upload/image/catalog/cart.png",
+					"semi_transient": true,
+					"stack_index": 0,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
